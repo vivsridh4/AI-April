@@ -12,7 +12,7 @@ Dive into e-books:
 ### AI/ML Learning Modules
 
 * Introduction to Azure Machine Learning - [Learning Module](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/)
-* Train a machine learning model with Azure Machine Learning [Learning Module](https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/)
+* Train a machine learning model with Azure Machine Learning - [Learning Module](https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/)
 
 ### AI/ML Code Samples
 
