@@ -1,4 +1,19 @@
-# AI Meetup - Content
+# AI/ML Meetup Bill of Materials (BoM)
 
-If your planning to start a new community? or if your looking for content to run a meetup? Then this repo provides Bill of Materials (BoM) to help engage communities with fresh, relevant, and authentic AI/ML content through in-person and online channels. Feel free to leverage content in any community engagement and please tweet with hashtag - #aimeetups
+This repo provides Bill of Materials (BoM) to help engage communities with fresh, relevant, and authentic AI/ML content through in-person and online channels. Feel free to leverage and share content in any community engagements / meetups and please tweet with hashtag - #aimeetups if your using or sharing this content with the community.
+
+### E-Books
+
+Dive into e-books:
+
+* Build your first intelligent app with a guide from O’Reilly [Download ebook](https://azure.microsoft.com/en-in/resources/building-intelligent-apps-with-cognitive-apis/?cdn=disable)
+* Packt: Principles of Data Science [Download ebook] (https://azure.microsoft.com/en-in/resources/principles-of-data-science/)
+
+### AI/ML Learning Modules
+
+### AI/ML Code Samples
+
+### AI/ML video content
+
+
 
