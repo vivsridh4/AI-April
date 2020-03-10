@@ -1,4 +1,4 @@
-## AI/ML Learning Materials & Meetup content - Bill of Materials (BoM)
+## AI/ML Learning Materials & Meetup - Bill of Materials (BoM)
 
 This repo provides content to get started with AI/ML & learn some advanced tools with Bill of Materials (BoM) to help engage communities with fresh, relevant, and authentic AI/ML content through in-person and online channels. Feel free to leverage the material to learn and to share content in any community engagements/meetups and please tweet with **hashtag - #AIApril** if leveraging the content or sharing this content with the community. 
 
