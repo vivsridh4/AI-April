@@ -4,7 +4,7 @@ This repo provides content to get started with AI/ML & learn some advanced tools
 
 ### AI/ML Learning - Videos
 
-Python for Begineers - https://channel9.msdn.com/Series/Intro-to-Python-Development
+Python for Begineers - [View Episodes](https://channel9.msdn.com/Series/Intro-to-Python-Development)
 
 ### E-Books
 
