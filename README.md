@@ -18,8 +18,6 @@ Dive into e-books:
 * Introduction to Azure Machine Learning - [Link](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/)
 * Train a machine learning model with Azure Machine Learning - [Link](https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/)
 
-### AI/ML Code Samples
-
 
 
 
