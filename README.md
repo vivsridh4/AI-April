@@ -5,6 +5,7 @@ This repo provides content to get started with AI/ML & learn some advanced tools
 ### AI/ML Learning - Videos
 
 Python for Begineers - [View Episodes](https://channel9.msdn.com/Series/Intro-to-Python-Development)
+Introduction to Machine Learning - [Damian Brady talk at DDD conference](https://aka.ms/HN/ml)
 
 ### E-Books
 
