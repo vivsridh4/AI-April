@@ -22,8 +22,8 @@ Dive into e-books:
 
 ### AI/ML Examples
 
-* Wine Not Build a Bot? - [Link](https://dev.to/azure/wine-not-build-a-bot-32fk)
-* Building translator app with code sample - [Link](https://dev.to/azure/tutorial-use-azure-cognitive-services-to-build-a-translator-app-hosted-on-azure-app-service-4pp1)
+* Wine Not Build a Bot? - [Code Sample](https://dev.to/azure/wine-not-build-a-bot-32fk)
+* Building translator app with code sample - [Code Sample](https://dev.to/azure/tutorial-use-azure-cognitive-services-to-build-a-translator-app-hosted-on-azure-app-service-4pp1)
 
 
 
